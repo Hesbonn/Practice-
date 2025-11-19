@@ -1,0 +1,13 @@
+.head{
+    border: 10px solid#2c0c0c;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: #e4d20e;
+    background-color: #e02323;
+    background-image: url("images/candles.jpg");
+    content: initial;
+    zoom: 1;
+    }
+    .image{
+    object-fit: cover;
+    }
